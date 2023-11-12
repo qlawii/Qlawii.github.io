@@ -1,0 +1,23 @@
+.header{
+    display:flex;
+    flex-direction:row;
+}
+
+
+.menu{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+}
+
+.header-title{
+    display:flex;
+    flex-direction:column;
+}
+
+
+.card-section{
+    display:flex;
+    /* flex-direction:row;
+    justify-content: space-between; */
+}
